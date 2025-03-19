@@ -1,0 +1,14 @@
+.list{
+    list-style-type: none;
+    padding: 20px;
+    
+    width: 500px;
+    background-color: rgba(244, 207, 87, 0.488);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    text-align: left;
+    margin: 0 auto;
+    
+
+
+}
