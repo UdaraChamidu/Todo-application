@@ -8,7 +8,7 @@ A simple Todo list application where users can add, delete, and mark tasks as co
 - **Delete Tasks** : Users can remove tasks from the list.
 - **Mark Tasks as Completed** : Users can mark tasks as completed, which changes their status.
 - **Statistics** : The application shows the total number of tasks and the number of completed tasks.
-
+ 
 ## Technologies Used
 
 - **Frontend** : HTML, CSS, JavaScript For creating the user interface and interaction.
